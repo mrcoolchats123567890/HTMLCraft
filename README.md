@@ -1,2 +1,0 @@
-# HTMLCraft
-Minecraft in HTML
